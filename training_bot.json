@@ -1,1 +1,65 @@
+{
+  "knowledge_base": [
+    {
+      "category": "General",
+      "q": "What is condominium management?",
+      "a": "It is the administration of shared spaces, finances, and services in a residential building."
+    },
+    {
+      "category": "General",
+      "q": "Who is responsible for managing the condominium?",
+      "a": "The administration office or property manager, overseen by the residents’ committee."
+    },
+    {
+      "category": "Payments",
+      "q": "How do I pay my monthly fee?",
+      "a": "Payments can be made online, by bank transfer, or at the administration office."
+    },
+    {
+      "category": "Payments",
+      "q": "What happens if I miss a payment?",
+      "a": "Late payments may incur penalties. Contact the administration to arrange a solution."
+    },
+    {
+      "category": "Maintenance",
+      "q": "How do I report a maintenance issue?",
+      "a": "Submit a request through the resident portal or call the administration office."
+    },
+    {
+      "category": "Maintenance",
+      "q": "How quickly are issues resolved?",
+      "a": "Urgent problems are handled within 24 hours; non-urgent issues may take 3–5 business days."
+    },
+    {
+      "category": "Communication",
+      "q": "How will I receive announcements?",
+      "a": "Through email, the resident portal, and community bulletin boards."
+    },
+    {
+      "category": "Communication",
+      "q": "Can I contact the administration directly?",
+      "a": "Yes, via the portal’s messaging system or by phone during office hours."
+    },
+    {
+      "category": "Rules",
+      "q": "Where can I find the condominium rules?",
+      "a": "In the resident portal under 'Community Rules'."
+    },
+    {
+      "category": "Rules",
+      "q": "What happens if someone breaks the rules?",
+      "a": "The administration issues a warning, and repeated violations may result in fines."
+    },
+    {
+      "category": "Administration",
+      "q": "How are budgets managed?",
+      "a": "Annual budgets are prepared by the administration and reviewed by the residents’ committee."
+    },
+    {
+      "category": "Administration",
+      "q": "Can residents see financial reports?",
+      "a": "Yes, quarterly reports are published in the resident portal."
+    }
+  ]
+}
 
